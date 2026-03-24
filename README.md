@@ -4,9 +4,9 @@ Full Stack Developer specializing in **Next.js**, **Node.js** and **React Native
 I build production-ready SaaS platforms, booking engines, and mobile apps —
 deployed on real infrastructure, serving real users.
 
-📍 Multan, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote Work
+📍 Lahore, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote Work
 &nbsp;📧 baberihtasham640@gmail.com
-&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad-Ihtisham)
+&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ihtasham-016639250/)
 &nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baberihtasham123)
 
 ---
